@@ -23,6 +23,7 @@ function draw() {
   inicializaCores();
 
   let maximo = width;
+  
   let minimo = 0;
   // mouseX, 0, width ==> 0, palavra.length
 
