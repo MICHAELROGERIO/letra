@@ -15,7 +15,7 @@ function palavraAleatoria() {
 function inicializaCores() {
   background("red");
   fill("black");
-  textSize(64);
+  textSize(62);
   textAlign(CENTER, CENTER);
 }
 
