@@ -13,7 +13,7 @@ function palavraAleatoria() {
 }
 
 function inicializaCores() {
-  background("white");
+  background("red");
   fill("black");
   textSize(64);
   textAlign(CENTER, CENTER);
