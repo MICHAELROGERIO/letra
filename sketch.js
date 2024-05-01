@@ -2,13 +2,13 @@
 let palavra;
 
 function setup() {
-  createCanvas(400, 300);
+  createCanvas(400, 400);
 
   palavra = palavraAleatoria();
 }
 
 function palavraAleatoria() {
-  let palavras = ["Caminhante", "Caminho", "Caminha"];
+  let palavras = ["Te Amo", "Te Amo", "Te Amo"];
   return random(palavras);
 }
 
