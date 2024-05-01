@@ -2,7 +2,7 @@
 let palavra;
 
 function setup() {
-  createCanvas(400, 700);
+  createCanvas(400, 600);
 
   palavra = palavraAleatoria();
 }
@@ -13,9 +13,9 @@ function palavraAleatoria() {
 }
 
 function inicializaCores() {
-  background("red");
+  background("blue");
   fill("black");
-  textSize(62);
+  textSize(60);
   textAlign(CENTER, CENTER);
 }
 
