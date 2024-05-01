@@ -8,7 +8,7 @@ function setup() {
 }
 
 function palavraAleatoria() {
-  let palavras = ["QUÍMICA", "FÍSICA", "TECNOLOGIA"];
+  let palavras = ["QUÍMICA", "FÍSICA", "TECNOLOGIA","ROBÓTICA"];
   return random(palavras);
 }
 
